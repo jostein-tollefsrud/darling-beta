@@ -39,6 +39,10 @@ footer > * {
   flex-wrap: wrap;
 }
 
+footer p {
+  font-size: 14px;
+}
+
 .footer-content > p {
   text-align: center;
   max-width: 100%;
@@ -183,16 +187,17 @@ footer {
   }
 }
 
-.fa-facebook-square {
-  font-size: 2rem;
-  margin-left: 5px;
-}
-
 .facebook-link {
   text-decoration: none;
   color: inherit;
   display: flex;
   align-items: center;
+  font-size: 14px;
+}
+
+.fa-facebook-square {
+  font-size: 2rem;
+  margin-left: 5px;
 }
 
 #top-link {
