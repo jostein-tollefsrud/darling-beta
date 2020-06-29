@@ -248,7 +248,7 @@ footer {
   background-color: #00800946;
   height: 50vw;
   width: 50vw;
-  position: absolute;
+  position: fixed;
   right: -15vw;
   top: -15vw;
   border-radius: 50%;
@@ -258,7 +258,7 @@ footer {
   background-color: #0080091f;
   height: 30vw;
   width: 30vw;
-  position: absolute;
+  position: fixed;
   right: -10vw;
   bottom: -20vw;
   border-radius: 50%;
